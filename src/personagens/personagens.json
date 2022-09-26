@@ -1,0 +1,14 @@
+[  
+    { "id": 1,    "email": "Daenerys@gmail.com",          "first_name": "Daenerys", "last_name": "Targaryen", "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Daenerys_Targaryen.png/220px-Daenerys_Targaryen.png"},
+    { "id": 2,    "email": "JonSnow@gmail.com",           "first_name": "Jon",      "last_name": "Snow",      "avatar": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2022/06/24/1239781814-kit-harington-jon-snow-season-8-801-movistar.jpg"},
+    { "id": 3,    "email": "AryaStk@Outlook.com",         "first_name": "Arya",     "last_name": "Stark",     "avatar": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Arya_stark_s7.jpg"},
+    { "id": 4,    "email": "SamwellTarly@Outlook.com",    "first_name": "Samwell",  "last_name": "Tarly",     "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Samwell_Tarly.png/220px-Samwell_Tarly.png"},
+    { "id": 5,    "email": "CerseiLnt@hotmal.com",        "first_name": "Cersei",   "last_name": "Lannister", "avatar": "https://upload.wikimedia.org/wikipedia/en/2/22/Cersei_Lannister_in_Black_Dress_in_Season_5.jpg"},
+    { "id": 6,    "email": "RobertBrt@gmail.com",         "first_name": "Robert",   "last_name": "Baratheon", "avatar": "https://i.pinimg.com/originals/81/dc/10/81dc106fb8833d8e57eb7b7f00c3040c.jpg"},
+    { "id": 7,    "email": "BrandonStk@Outlook.com",      "first_name": "Brandon",  "last_name": "Stark",     "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Bran.png/220px-Bran.png"},
+    { "id": 8,    "email": "margaeryTYR@gmail.com",       "first_name": "Margaery", "last_name": "Tyrell",    "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Game-of-thrones-margaery-tyrell.png/220px-Game-of-thrones-margaery-tyrell.png"},
+    { "id": 9,    "email": "JoffBaratheon@hotmal.com",    "first_name": "Joffrey",  "last_name": "Baratheon", "avatar": "https://i.pinimg.com/564x/38/f9/e1/38f9e1b6bf82149dc3541cedfdd2cfaf--joffrey-baratheon-lyanna-mormont.jpg"},
+    { "id": 10,   "email": "Jaimelnl@gmail.com",          "first_name": "Jaime",    "last_name": "Lannister",  "avatar": "https://i.pinimg.com/originals/0b/b7/31/0bb7316b210bb3ad71fdf2e5273ba5be.jpg"},
+    { "id": 11,   "email": "tyrion@gmail.com",            "first_name": "Tyrion",   "last_name": "Lannister", "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e3/Tyrion-82837898.jpg/220px-Tyrion-82837898.jpg"},
+    { "id": 12,   "email": "theVarys@gmail.com",          "first_name": "Lorde",    "last_name": "Varys",     "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a3/Varys_Season_7_Promo_Image.png/220px-Varys_Season_7_Promo_Image.png"}
+] 
